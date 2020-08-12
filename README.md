@@ -1,0 +1,2 @@
+# RoR2_Japanese_Unofficial
+RoR2の非公式日本語翻訳です
