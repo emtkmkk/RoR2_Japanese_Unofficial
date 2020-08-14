@@ -1441,7 +1441,7 @@
         "ITEM_AUTOCASTEQUIPMENT_PICKUP": "装備品のクールダウンを 50% 減らす。\r\n…が、<color=#FF7F7F>勝手に使用されるようになる。</color>",
         "ITEM_AUTOCASTEQUIPMENT_DESC": "<style=cIsUtility>装備品のクールダウン</style>を <style=cIsUtility>50%</style> <style=cStack>(スタックごとに +15%)</style> 短縮する。装備品が自動的に起動するようになる。",
         "ITEM_EXECUTELOWHEALTHELITE_NAME": "古いギロチン",
-        "ITEM_EXECUTELOWHEALTHELITE_PICKUP": "体力が 13% まで低下したエリートを即死させる。\r\n(即死ラインは白ゲージで表される)",
+        "ITEM_EXECUTELOWHEALTHELITE_PICKUP": "残り体力が 13% のエリートを即死させる。\r\n(即死ラインは白ゲージで表される)",
         "ITEM_EXECUTELOWHEALTHELITE_DESC": "エリート モンスター(ヘルスが<style=cIsHealth>13% <style=cStack>(スタックごとに+13%)</style>以下)</style>を即死させる。",
         "ITEM_EXECUTELOWHEALTHELITE_LORE": "注文: 古いギロチン\r\n追跡番号: 782*****\r\n配達予定日: 04/29/2056\r\n配達方法: 標準\r\n配達先: 36番倉庫、アンクラー、プリマス V \r\n配達内容: \r\n\r\nこれは誰もがまだ高揚した気分だ。やっと圧制者を打倒して、プリマス V を奪還した！ 権力者の中には、金を使って内密に脱出を試みる者もいるだろうが、経済的大失敗のせいで難しくなっている。\r\n\r\n彼らから受けてきた不正を血で償ってもらいたいだけではない。自称同調者たちにメッセージを送りたいのだ。この古いギロチンは、処刑の手段であると同時に、彼らがどこに隠れていようと恐怖に陥らせるシンボルとなるだろう。\r\n\r\nプリマス V は生きている！\r\n",
         "ITEM_ENERGIZEDONEQUIPMENTUSE_NAME": "戦の角笛",
