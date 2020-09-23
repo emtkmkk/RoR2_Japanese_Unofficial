@@ -17,7 +17,7 @@ https://github.com/emtkmkk/RoR2_Japanese_Unofficial/releases/
 
 3. **\Risk of Rain 2_Data\Language** を開き、ダウンロードした jau フォルダをそのままコピー
 
-![image](https://user-images.githubusercontent.com/65014664/93985083-8fb7f500-fdbf-11ea-83ba-ea45e14f4717.png)
+![image](https://user-images.githubusercontent.com/65014664/93985583-3e5c3580-fdc0-11ea-86ef-49be27128bf9.png)
 
 4. ゲーム内のメインメニュー右上から言語を **日本語(非公式-XXXXXX)** に設定
 
