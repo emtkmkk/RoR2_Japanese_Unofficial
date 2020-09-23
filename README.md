@@ -10,12 +10,15 @@ v1.0.1.1に対応しています。
 1. [ここ](https://github.com/emtkmkk/RoR2_Japanese_Unofficial/releases)から最新版のzipをダウンロード
 
 https://github.com/emtkmkk/RoR2_Japanese_Unofficial/releases/
+
 2. **Risk Of Rain 2** の ローカルファイルを閲覧
 
 ![image](https://user-images.githubusercontent.com/65014664/93985285-ce4daf80-fdbf-11ea-8f12-525b7b4a02ac.png)
+
 3. **\Risk of Rain 2_Data\Language** を開き、ダウンロードした jau フォルダをそのままコピー
 
 ![image](https://user-images.githubusercontent.com/65014664/93985083-8fb7f500-fdbf-11ea-83ba-ea45e14f4717.png)
+
 4. ゲーム内のメインメニュー右上から言語を **日本語(非公式-XXXXXX)** に設定
 
 ![image](https://user-images.githubusercontent.com/65014664/93985349-e8878d80-fdbf-11ea-9648-e93152dfdb3d.png)
